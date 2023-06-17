@@ -40,4 +40,4 @@ smallest = 4
 largest = 31
 
 
--- END --.
+-- END --
